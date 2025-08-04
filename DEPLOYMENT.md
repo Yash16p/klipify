@@ -38,7 +38,7 @@
    run_new_ui.bat
    
    # Option 2: Direct command
-   streamlit run klipify_new_ui.py
+   sstreamlit run klipify_new_ui.py
    ```
 
 5. **Open Browser**
